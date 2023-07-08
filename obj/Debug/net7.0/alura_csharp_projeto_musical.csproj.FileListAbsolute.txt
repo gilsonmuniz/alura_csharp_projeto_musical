@@ -1,0 +1,15 @@
+C:\Users\gilson.muniz\Documents\alura_csharp_projeto_musical\bin\Debug\net7.0\alura_csharp_projeto_musical.exe
+C:\Users\gilson.muniz\Documents\alura_csharp_projeto_musical\bin\Debug\net7.0\alura_csharp_projeto_musical.deps.json
+C:\Users\gilson.muniz\Documents\alura_csharp_projeto_musical\bin\Debug\net7.0\alura_csharp_projeto_musical.runtimeconfig.json
+C:\Users\gilson.muniz\Documents\alura_csharp_projeto_musical\bin\Debug\net7.0\alura_csharp_projeto_musical.dll
+C:\Users\gilson.muniz\Documents\alura_csharp_projeto_musical\bin\Debug\net7.0\alura_csharp_projeto_musical.pdb
+C:\Users\gilson.muniz\Documents\alura_csharp_projeto_musical\obj\Debug\net7.0\alura_csharp_projeto_musical.csproj.AssemblyReference.cache
+C:\Users\gilson.muniz\Documents\alura_csharp_projeto_musical\obj\Debug\net7.0\alura_csharp_projeto_musical.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gilson.muniz\Documents\alura_csharp_projeto_musical\obj\Debug\net7.0\alura_csharp_projeto_musical.AssemblyInfoInputs.cache
+C:\Users\gilson.muniz\Documents\alura_csharp_projeto_musical\obj\Debug\net7.0\alura_csharp_projeto_musical.AssemblyInfo.cs
+C:\Users\gilson.muniz\Documents\alura_csharp_projeto_musical\obj\Debug\net7.0\alura_csharp_projeto_musical.csproj.CoreCompileInputs.cache
+C:\Users\gilson.muniz\Documents\alura_csharp_projeto_musical\obj\Debug\net7.0\alura_csharp_projeto_musical.dll
+C:\Users\gilson.muniz\Documents\alura_csharp_projeto_musical\obj\Debug\net7.0\refint\alura_csharp_projeto_musical.dll
+C:\Users\gilson.muniz\Documents\alura_csharp_projeto_musical\obj\Debug\net7.0\alura_csharp_projeto_musical.pdb
+C:\Users\gilson.muniz\Documents\alura_csharp_projeto_musical\obj\Debug\net7.0\alura_csharp_projeto_musical.genruntimeconfig.cache
+C:\Users\gilson.muniz\Documents\alura_csharp_projeto_musical\obj\Debug\net7.0\ref\alura_csharp_projeto_musical.dll
