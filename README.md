@@ -9,3 +9,10 @@ Site de avaliação de bandas desenvolvido C# visto na plataforma [Alura](alura.
 - Dicionários e avaliação de bandas;
 - Desafio.
 <br><br>
+
+2. [C#: Aplicando a Orientação a Objetos](https://cursos.alura.com.br/certificate/c98c3d14-c4d6-488b-9650-7b756c262757):
+- Classe e método no C#;
+- Métodos de acesso e propriedades;
+- Integrando classes e definindo relacionamentos;
+- Construtor de bandas;
+- Desafio.
