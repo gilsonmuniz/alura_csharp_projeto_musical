@@ -1,3 +1,4 @@
 {
-    "dotnet.defaultSolution": "ScreenSound.sln"
+    "dotnet.defaultSolution": "ScreenSound.sln",
+    "deepscan.ignoreConfirmWarning": true
 }
